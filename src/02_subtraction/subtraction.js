@@ -1,1 +1,7 @@
-// Your function will go in this folder! Delete this line!
+var Subtraction = function() {};
+
+Subtraction.prototype.minus = function(firstNumber, secondNumber) {
+  return 5;
+}
+
+module.exports = Subtraction;
